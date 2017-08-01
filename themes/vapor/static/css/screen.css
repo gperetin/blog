@@ -3,7 +3,7 @@
 /* === Core Styles === */
 body {
   background-color: #ffffff;
-  color: #7f8c8d;
+  color: #424242;
   font-size: 15px;
   font-weight: 100;
   line-height: 1.6em;
@@ -22,7 +22,7 @@ p,
 li,
 dt,
 dd {
-  font-family: "Merriweather", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
 }
 h1,
 .post-meta {
@@ -86,7 +86,7 @@ article.preview,
 a.archive-link,
 .article-nav {
   margin: 20px auto;
-  max-width: 600px;
+  max-width: 700px;
   width: 90%;
 }
 #site-head img {
@@ -288,7 +288,7 @@ footer section {
   font-weight: 300;
   font-size: 18px;
   margin: 0 auto;
-  max-width: 600px;
+  max-width: 700px;
   text-transform: uppercase;
   width: 90%;
 }
@@ -304,7 +304,7 @@ nav {
   margin-bottom: 2em;
   text-align: center;
   margin: 20px auto 2em auto;
-  max-width: 600px;
+  max-width: 700px;
 }
 nav ul {
   list-style: none;
@@ -369,7 +369,7 @@ a.archive-link {
 .pagination {
   position: relative;
   width: 90%;
-  max-width: 600px;
+  max-width: 700px;
   font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
   text-transform: uppercase;
   font-size: 20px;
