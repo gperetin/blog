@@ -19,8 +19,8 @@ TRANSLATION_FEED_ATOM = None
 
 DEFAULT_PAGINATION = False
 PATH = 'content'
-ARTICLE_DIR = 'posts'
-PAGE_DIR = 'pages'
+ARTICLE_PATHS = ['posts']
+PAGE_PATHS = ['pages']
 
 ARTICLE_URL = '{slug}'
 PAGE_URL = '{slug}'
